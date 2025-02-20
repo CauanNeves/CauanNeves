@@ -50,6 +50,9 @@
   <a href="https://discord.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Cauan-Neves/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
 </div>
 
+<img src="https://raw.githubusercontent.com/CauanNeves/CauanNeves/output/snake.svg" alt="Snake animation" />
+
+
 <a href="https://github.com/CauanNeves">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=423A5E&height=180&section=footer&text=What+I+don't+know%2C+give+me+a+few+days&fontSize=30&fontColor=F0E55B&animation=twinkling&fontAlignY=55"/>
 </a>
