@@ -31,7 +31,7 @@
 
 <a href="https://www.linkedin.com/in/Cauan-Neves/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=0CF25D&vCenter=true&width=85&height=20&lines=Socials" alt="Typing SVG" /></a>
 <div align= 'center'>
-  <a href="https://discord.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Cauan-Neves/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  <a href="https://discord.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/Cauan-Neves/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/c.neves03/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
 </div>
 
 <img src="https://raw.githubusercontent.com/CauanNeves/CauanNeves/output/snake.svg" alt="Snake animation" />
